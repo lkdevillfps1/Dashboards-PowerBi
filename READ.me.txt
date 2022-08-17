@@ -1,0 +1,22 @@
+Dashboards feitas em Power Bi 
+
+Primeira Dashboard de Vendas
+1 - recebimento dos dados
+( obtive os dados por excell, limpei e manipuleis os dados)
+2 - Transformação de dados no Power Query ( calculos e medias )
+3 - criação da dash com conceitos basicos do Power Bi como cartoes, indicadores e graficos de barras.
+
+RESUMO;
+Processo feito para melhor gerenciamento de uma empresa, fornecendo uma tomada de decisão do contratante, para assim criar um insight para sua empresa.
+Os produtos base, eram eletronicos e tecnológicos.
+
+Segunda Dashboard de Produção
+1- recebimento dos dados 
+( obtive os dados por excell, limpei e manipuleis os dados)
+2 - Transformação de dados no Power Query ( calculos e medias )
+3 - criação da dash com conceitos basicos do Power Bi como cartoes, indicadores e graficos de barras.
+
+RESUMO;
+Processo feito para analisar a produção dos funcionarios, produtos concluidos/danificados, quantidade, data e tempo de cada produto e de performance dos funcionarios.
+Esta dashboard bem completa, pode ajudar em soluçoes cotidianas de uma empresa, para produtos danificados ou perdidos no processo de produção.
+A quantidade de produto que é bem sucedida por funcionario x, um valor em % de performance e tempo de duração para conclusão de um serviço de um funcionario
