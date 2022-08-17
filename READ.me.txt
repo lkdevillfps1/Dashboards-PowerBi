@@ -19,4 +19,4 @@ Segunda Dashboard de Produção
 RESUMO;
 Processo feito para analisar a produção dos funcionarios, produtos concluidos/danificados, quantidade, data e tempo de cada produto e de performance dos funcionarios.
 Esta dashboard bem completa, pode ajudar em soluçoes cotidianas de uma empresa, para produtos danificados ou perdidos no processo de produção.
-A quantidade de produto que é bem sucedida por funcionario x, um valor em % de performance e tempo de duração para conclusão de um serviço de um funcionario
+A quantidade de produto que é bem sucedida por funcionario x, um valor em % de performance e tempo de duração para conclusão de um serviço de um funcionario.
